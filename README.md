@@ -14,7 +14,7 @@ Currently expanding expertise in international market standards and scalable ana
 ---
 
 ## 🌐 Live Portfolio
-👉 https://your-vercel-link.com
+👉 https://fernandosantosportfolio.vercel.app/
 
 ---
 
