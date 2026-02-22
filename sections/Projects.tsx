@@ -34,7 +34,7 @@ export default function Projects() {
                 target="_blank"
                 className="px-4 py-2 bg-blue-600 rounded-lg text-sm hover:bg-blue-700 transition"
               >
-                Deploy
+                Acessar Aplicação
               </a>
 
               <a
@@ -66,7 +66,7 @@ export default function Projects() {
                 target="_blank"
                 className="px-4 py-2 bg-blue-600 rounded-lg text-sm hover:bg-blue-700 transition"
               >
-                Deploy
+                Acessar Aplicação
               </a>
 
               <a
@@ -98,7 +98,7 @@ export default function Projects() {
                 target="_blank"
                 className="px-4 py-2 bg-blue-600 rounded-lg text-sm hover:bg-blue-700 transition"
               >
-                Deploy
+                Acessar Aplicação
               </a>
 
               <a
@@ -130,7 +130,7 @@ export default function Projects() {
                 target="_blank"
                 className="px-4 py-2 bg-blue-600 rounded-lg text-sm hover:bg-blue-700 transition"
               >
-                Deploy
+                Acessar Aplicação
               </a>
 
               <a
