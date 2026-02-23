@@ -9,7 +9,7 @@ export default function About() {
       <FadeIn>
         <div className="max-w-5xl mx-auto">
 
-          <h2 className="text-3xl md:text-4xl font-bold mb-12 text-center">
+          <h2 className="text-3xl md:text-4xl font-bold mb-12 text-center text-white">
             Sobre
           </h2>
 
