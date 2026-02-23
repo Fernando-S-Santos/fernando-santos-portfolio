@@ -9,7 +9,7 @@ export default function Projects() {
       <FadeIn>
         <div className="max-w-6xl mx-auto">
 
-          <h2 className="text-3xl md:text-4xl font-bold text-center mb-16">
+          <h2 className="text-3xl md:text-4xl text-white font-bold text-center mb-16">
             Projetos Destaque
           </h2>
 
@@ -32,7 +32,7 @@ export default function Projects() {
               <a
                 href="https://globaleconomicdashboard.vercel.app/"
                 target="_blank"
-                className="px-4 py-2 bg-blue-600 rounded-lg text-sm hover:bg-blue-700 transition"
+                className="px-4 py-2 bg-blue-600 text-white rounded-lg text-sm hover:bg-blue-700 transition"
               >
                 Acessar Aplicação
               </a>
@@ -40,7 +40,7 @@ export default function Projects() {
               <a
                 href="https://github.com/Fernando-S-Santos/global_economic_dashboard"
                 target="_blank"
-                className="px-4 py-2 border border-slate-600 rounded-lg text-sm hover:border-blue-400 hover:text-blue-400 transition"
+                className="px-4 py-2 border border-slate-600 text-white rounded-lg text-sm hover:border-blue-400 hover:text-blue-400 transition"
               >
                 GitHub
               </a>
@@ -64,7 +64,7 @@ export default function Projects() {
               <a
                 href="https://businesskpianalyzer.vercel.app/"
                 target="_blank"
-                className="px-4 py-2 bg-blue-600 rounded-lg text-sm hover:bg-blue-700 transition"
+                className="px-4 py-2 bg-blue-600 text-white rounded-lg text-sm hover:bg-blue-700 transition"
               >
                 Acessar Aplicação
               </a>
@@ -72,7 +72,7 @@ export default function Projects() {
               <a
                 href="https://github.com/Fernando-S-Santos/business-kpi-analyzer"
                 target="_blank"
-                className="px-4 py-2 border border-slate-600 rounded-lg text-sm hover:border-blue-400 hover:text-blue-400 transition"
+                className="px-4 py-2 border border-slate-600 text-white rounded-lg text-sm hover:border-blue-400 hover:text-blue-400 transition"
               >
                 GitHub
               </a>
@@ -96,7 +96,7 @@ export default function Projects() {
               <a
                 href="https://dashboardanaliticofinanceiro.vercel.app/"
                 target="_blank"
-                className="px-4 py-2 bg-blue-600 rounded-lg text-sm hover:bg-blue-700 transition"
+                className="px-4 py-2 bg-blue-600 text-white rounded-lg text-sm hover:bg-blue-700 transition"
               >
                 Acessar Aplicação
               </a>
@@ -104,7 +104,7 @@ export default function Projects() {
               <a
                 href="https://github.com/Fernando-S-Santos/dashboard_analitico_financeiro"
                 target="_blank"
-                className="px-4 py-2 border border-slate-600 rounded-lg text-sm hover:border-blue-400 hover:text-blue-400 transition"
+                className="px-4 py-2 border border-slate-600 text-white rounded-lg text-sm hover:border-blue-400 hover:text-blue-400 transition"
               >
                 GitHub
               </a>
@@ -128,7 +128,7 @@ export default function Projects() {
               <a
                 href="https://sistemagestaorelatorios.vercel.app/"
                 target="_blank"
-                className="px-4 py-2 bg-blue-600 rounded-lg text-sm hover:bg-blue-700 transition"
+                className="px-4 py-2 bg-blue-600 text-white rounded-lg text-sm hover:bg-blue-700 transition"
               >
                 Acessar Aplicação
               </a>
@@ -136,7 +136,7 @@ export default function Projects() {
               <a
                 href="https://github.com/Fernando-S-Santos/sistema-gestao-relatorios"
                 target="_blank"
-                className="px-4 py-2 border border-slate-600 rounded-lg text-sm hover:border-blue-400 hover:text-blue-400 transition"
+                className="px-4 py-2 border border-slate-600 text-white rounded-lg text-sm hover:border-blue-400 hover:text-blue-400 transition"
               >
                 GitHub
               </a>
