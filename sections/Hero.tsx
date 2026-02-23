@@ -137,14 +137,14 @@ export default function Hero() {
 
           <a 
             href="#projetos" 
-            className="relative px-6 py-3 rounded-lg bg-blue-600 transition duration-300 shadow-[0_0_20px_rgba(59,130,246,0.3)] hover:shadow-[0_0_35px_rgba(59,130,246,0.5)]"
+            className="relative px-6 py-3 rounded-lg bg-blue-600 text-white transition duration-300 shadow-[0_0_20px_rgba(59,130,246,0.3)] hover:shadow-[0_0_35px_rgba(59,130,246,0.5)]"
           >
             Ver Projetos
           </a>
 
           <a
             href="#contato"
-            className="px-6 py-3 border border-slate-600 rounded-lg hover:border-blue-500 hover:text-blue-400 transition duration-300"
+            className="px-6 py-3 border border-slate-600 text-white rounded-lg hover:border-blue-500 hover:text-blue-400 transition duration-300"
           >
             Entrar em contato
           </a>
