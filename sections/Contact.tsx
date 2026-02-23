@@ -19,7 +19,7 @@ export default function Contact() {
           <div className="w-full flex justify-center mb-8">
             <div className="h-px w-56 md:w-64 bg-gradient-to-r from-transparent via-blue-500 to-transparent opacity-40"></div>
           </div>
-          <h2 className="text-3xl md:text-4xl font-bold mb-8">
+          <h2 className="text-3xl md:text-4xl text-white font-bold mb-8">
             Contato
           </h2>
 
@@ -32,7 +32,7 @@ export default function Contact() {
 
             <a
               href="mailto:fernandossantos93@hotmail.com"
-              className="relative px-6 py-3 rounded-lg bg-blue-600 overflow-hidden group transition duration-300 shadow-[0_0_20px_rgba(59,130,246,0.3)]"
+              className="relative px-6 py-3 rounded-lg bg-blue-600 text-white overflow-hidden group transition duration-300 shadow-[0_0_20px_rgba(59,130,246,0.3)]"
             >
                 <span className="relative z-10">Enviar E-mail</span>
 
@@ -42,7 +42,7 @@ export default function Contact() {
             <a
               href="https://www.linkedin.com/in/fernando-s-santos/"
               target="_blank"
-              className="px-6 py-3 border border-slate-700 rounded-lg hover:border-blue-500 hover:bg-blue-500/10 transition-all duration-300"
+              className="px-6 py-3 border border-slate-700 text-white rounded-lg hover:border-blue-500 hover:bg-blue-500/10 transition-all duration-300"
             >
               LinkedIn
             </a>
@@ -50,7 +50,7 @@ export default function Contact() {
             <a
               href="https://github.com/Fernando-S-Santos"
               target="_blank"
-              className="px-6 py-3 border border-slate-700 rounded-lg hover:border-blue-500 hover:bg-blue-500/10 transition-all duration-300"
+              className="px-6 py-3 border border-slate-700 text-white rounded-lg hover:border-blue-500 hover:bg-blue-500/10 transition-all duration-300"
             >
               GitHub
             </a>
