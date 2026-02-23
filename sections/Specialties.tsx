@@ -19,7 +19,7 @@ export default function Specialties() {
               <h3 className="text-xl font-semibold mb-4 text-blue-400">
                 Análise de Dados
               </h3>
-              <p className="text-slate-400">
+              <p className="text-slate-200">
                 Organização, exploração e interpretação de dados para geração de insights estruturados.
               </p>
             </div>
@@ -28,7 +28,7 @@ export default function Specialties() {
               <h3 className="text-xl font-semibold mb-4 text-blue-400">
                 Desenvolvimento de Aplicações
               </h3>
-              <p className="text-slate-400">
+              <p className="text-slate-200">
                 Construção de sistemas modernos com foco em organização, clareza e performance.
               </p>
             </div>
@@ -37,7 +37,7 @@ export default function Specialties() {
               <h3 className="text-xl font-semibold mb-4 text-blue-400">
                 Modelagem & Estrutura
               </h3>
-              <p className="text-slate-400">
+              <p className="text-slate-200">
                 Estruturação lógica de dados e sistemas visando escalabilidade e eficiência.
               </p>
             </div>
@@ -46,7 +46,7 @@ export default function Specialties() {
               <h3 className="text-xl font-semibold mb-4 text-blue-400">
                 Visualização & Dashboards
               </h3>
-              <p className="text-slate-400">
+              <p className="text-slate-200">
                 Criação de painéis analíticos que transformam dados em decisões estratégicas.
               </p>
             </div>

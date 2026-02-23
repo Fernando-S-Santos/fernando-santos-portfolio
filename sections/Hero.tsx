@@ -113,7 +113,7 @@ export default function Hero() {
           initial={{ opacity: 0, y: 40 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1 }}
-          className="text-xl md:text-2xl text-slate-300 mb-6"
+          className="text-xl md:text-2xl text-slate-200 mb-6"
         >
           Profissional de tecnologia com foco em análise e soluções orientadas a dados.
         </motion.p>
@@ -122,7 +122,7 @@ export default function Hero() {
           initial={{ opacity: 0, y: 40 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1.2 }}
-          className="text-slate-400 max-w-2xl mx-auto mb-10"
+          className="text-slate-200 max-w-2xl mx-auto mb-10"
         >
           Big Data & Business Analytics, desenvolvendo projetos
           que unem organização, raciocínio lógico e inteligência analítica.

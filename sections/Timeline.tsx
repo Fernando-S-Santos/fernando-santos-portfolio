@@ -19,7 +19,7 @@ export default function Timeline() {
               <h3 className="text-xl font-semibold text-blue-400">
                 Pós-graduação em Gestão de Big Data & Business Analytics
               </h3>
-              <p className="text-slate-400">
+              <p className="text-slate-300">
                 Aprofundamento em análise de dados, estatística aplicada,
                 modelagem e inteligência analítica.
               </p>
@@ -29,7 +29,7 @@ export default function Timeline() {
               <h3 className="text-xl font-semibold text-blue-400">
                 Análise e Desenvolvimento de Sistemas
               </h3>
-              <p className="text-slate-400">
+              <p className="text-slate-300">
                 Formação sólida em desenvolvimento, estrutura de sistemas,
                 banco de dados e lógica de programação.
               </p>
@@ -39,7 +39,7 @@ export default function Timeline() {
               <h3 className="text-xl font-semibold text-blue-400">
                 Evolução Contínua
               </h3>
-              <p className="text-slate-400">
+              <p className="text-slate-300">
                 Desenvolvimento de projetos práticos com foco em aplicações
                 orientadas a dados, dashboards e organização de sistemas.
               </p>

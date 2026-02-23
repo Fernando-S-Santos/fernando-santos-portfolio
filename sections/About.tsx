@@ -13,7 +13,7 @@ export default function About() {
             Sobre
           </h2>
 
-          <div className="space-y-6 text-slate-300 text-lg leading-relaxed">
+          <div className="space-y-6 text-slate-200 text-lg leading-relaxed">
 
             <p>
               Sou formado em Análise e Desenvolvimento de Sistemas e atualmente cursando

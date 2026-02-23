@@ -19,7 +19,7 @@ export default function Home() {
           <Timeline />
           <TechStack />
           <Contact />
-          <footer className="py-8 border-t border-slate-800 text-center text-slate-500 text-sm">
+          <footer className="py-8 border-t border-slate-800 text-center text-slate-400 text-sm">
             © {new Date().getFullYear()} Desenvolvido por Fernando S. Santos. Todos os direitos reservados.
           </footer>
         </main>

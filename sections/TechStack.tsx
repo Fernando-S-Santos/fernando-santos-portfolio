@@ -19,7 +19,7 @@ export default function TechStack() {
               <h3 className="text-blue-400 font-semibold mb-4">
                 Linguagens
               </h3>
-              <ul className="space-y-2 text-slate-400">
+              <ul className="space-y-2 text-slate-200">
                 <li>JavaScript</li>
                 <li>TypeScript</li>
                 <li>Python</li>
@@ -30,7 +30,7 @@ export default function TechStack() {
               <h3 className="text-blue-400 font-semibold mb-4">
                 Frontend
               </h3>
-              <ul className="space-y-2 text-slate-400">
+              <ul className="space-y-2 text-slate-200">
                 <li>React</li>
                 <li>Next.js</li>
                 <li>Tailwind CSS</li>
@@ -55,7 +55,7 @@ export default function TechStack() {
               <h3 className="text-blue-400 font-semibold mb-4">
                 Dados & Analytics
               </h3>
-              <ul className="space-y-2 text-slate-400">
+              <ul className="space-y-2 text-slate-200">
                 <li>Excel Avançado (Dashboards, fórmulas, análise de dados)</li>
                 <li>Pandas</li>
                 <li>Matplotlib</li>
@@ -68,7 +68,7 @@ export default function TechStack() {
               <h3 className="text-blue-400 font-semibold mb-4">
                 Ferramentas
               </h3>
-              <ul className="space-y-2 text-slate-400">
+              <ul className="space-y-2 text-slate-200">
                 <li>Git & GitHub</li>
                 <li>Vercel</li>
                 <li>VS Code</li>

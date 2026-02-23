@@ -50,7 +50,7 @@ export default function Navbar() {
           </svg>
         </a>
 
-        <div className="hidden md:flex gap-8 text-slate-300">
+        <div className="hidden md:flex gap-8 text-slate-200">
           <a
             href="#home"
             className="flex items-center gap-2 px-3 py-1.5 rounded-md bg-slate-900/50 border border-slate-800 hover:border-blue-500 hover:bg-blue-500/10 transition"

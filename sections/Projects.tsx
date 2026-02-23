@@ -20,11 +20,11 @@ export default function Projects() {
             <h3 className="text-xl font-semibold mb-4 text-blue-400">
               Global Economic Dashboard
             </h3>
-            <p className="text-slate-400 mb-4">
+            <p className="text-slate-200 mb-4">
               Interactive dashboard for global economic analysis including GDP comparison,
               country ranking and dynamic filtering. Designed for international data visualization.
             </p>
-            <p className="text-sm text-slate-500 mb-6">
+            <p className="text-sm text-slate-400 mb-6">
               Next.js • TypeScript • Recharts • Tailwind
             </p>
 
@@ -52,11 +52,11 @@ export default function Projects() {
             <h3 className="text-xl font-semibold mb-4 text-blue-400">
               Business KPI Analyzer
             </h3>
-            <p className="text-slate-400 mb-4">
+            <p className="text-slate-200 mb-4">
               KPI monitoring system with executive metrics, revenue tracking and performance indicators,
               focused on strategic business analysis.
             </p>
-            <p className="text-sm text-slate-500 mb-6">
+            <p className="text-sm text-slate-400 mb-6">
               Next.js • TypeScript • Chart Visualization • Tailwind
             </p>
 
@@ -84,11 +84,11 @@ export default function Projects() {
             <h3 className="text-xl font-semibold mb-4 text-blue-400">
               Dashboard Analítico Financeiro
             </h3>
-            <p className="text-slate-400 mb-4">
+            <p className="text-slate-200 mb-4">
               Painel para análise de receitas, despesas e indicadores financeiros,
               com foco em visualização clara e apoio à tomada de decisão baseada em dados.
             </p>
-            <p className="text-sm text-slate-500 mb-6">
+            <p className="text-sm text-slate-400 mb-6">
               React • Recharts • TypeScript
             </p>
 
@@ -116,11 +116,11 @@ export default function Projects() {
             <h3 className="text-xl font-semibold mb-4 text-blue-400">
               Sistema de Gestão com Relatórios
             </h3>
-            <p className="text-slate-400 mb-4">
+            <p className="text-slate-200 mb-4">
               Sistema administrativo com CRUD completo de clientes e pedidos,
               além de relatórios automáticos com cálculo de faturamento e ticket médio.
             </p>
-            <p className="text-sm text-slate-500 mb-6">
+            <p className="text-sm text-slate-400 mb-6">
               Next.js • TypeScript • Context API • Tailwind
             </p>
 
