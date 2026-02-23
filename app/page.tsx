@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <>
         <Navbar />
-        <main>
+        <main className="bg-slate-950 text-slate-100 min-h-screen">
           <Hero />
           <About />
           <Specialties />
