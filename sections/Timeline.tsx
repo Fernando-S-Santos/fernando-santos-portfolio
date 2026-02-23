@@ -9,7 +9,7 @@ export default function Timeline() {
       <FadeIn>
         <div className="max-w-5xl mx-auto">
 
-          <h2 className="text-3xl md:text-4xl font-bold text-center mb-16">
+          <h2 className="text-3xl md:text-4xl text-white font-bold text-center mb-16">
             Jornada & Formação
           </h2>
 
